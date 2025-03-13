@@ -12,3 +12,5 @@ You are required to write a script server-stats.sh that can analyse basic server
     Top 5 processes by memory usage
 
 Stretch goal: Feel free to optionally add more stats such as os version, uptime, load average, logged in users, failed login attempts etc.
+
+https://roadmap.sh/projects/server-stats
